@@ -3,7 +3,10 @@
          "url": "https://gitee.com/t-v/tt/raw/t/t/ys.png", 
             "name": " T先生" 
         },
-
+{ 
+            "url": "https://gitee.com/comxxo/tv/raw/box/666.json", 
+            "name": "666" 
+        },
         { 
             "url": "https://jiekou.netlify.app/svip.json", 
             "name": "拾光vip" 
