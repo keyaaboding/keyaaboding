@@ -1,0 +1,44 @@
+{ "urls": [{ "url": "https://gitee.com/t-v/tt/raw/t/t/ys.png", "name": "T影视" },
+       { 
+         "url": "https://gitee.com/lsc800416/tvbox/raw/master/%E9%A1%BA.json", 
+            "name": "顺子" 
+        },
+
+        { 
+            "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json", 
+            "name": "拾光" 
+        },
+        { 
+            "url": "https://jiekou.netlify.app/svip.json", 
+            "name": "备用" 
+        },
+       { 
+         "url": "https://gitee.com/sydl3/js/raw/master/111.json", 
+            "name": "咸鱼" 
+        },
+{ 
+            "url": "https://gitlab.com/jeossi/t/-/raw/main/01.bmp?ref_type=heads&inline=false", 
+            "name": "jeossi" 
+        },
+        {
+       "url": "https://ghfast.top/https://raw.githubusercontent.com/zheng197600/tvbox/refs/heads/main/0821.json", 
+            "name": "🈲0821" 
+        },
+        { 
+            "url": "https://codeberg.org/yjl/TVBOX/raw/branch/main/jthl.json", 
+            "name": "🈲yjl" 
+            },
+        { 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/jieray/TV-BOX/refs/heads/main/纯福利/纯福利.json", 
+            "name": "🈲jieray" 
+            },
+            { 
+            "url": "https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/wzxxcz/TV-BOX/refs/heads/main/%E7%BA%AF%E7%A6%8F%E5%88%A9/%E7%BA%AF%E7%A6%8F%E5%88%A9.json", 
+            "name": "🈲小橙子🍊" 
+            },
+        { 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/纯福利/纯福利.json", 
+            "name": "🈲拾光" 
+}
+    ]
+}
