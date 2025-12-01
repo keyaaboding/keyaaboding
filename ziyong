@@ -1,1 +1,34 @@
+{ "urls": [{ "url": "https://d.kstore.dev/download/2938/json/ziyong.json", "name": "自用" },
+       { 
+         "url": "https://gitee.com/t-v/tt/raw/t/t/ys.png", 
+            "name": " T先生" 
+        },
 
+        { 
+            "url": "https://jiekou.netlify.app/svip.json", 
+            "name": "拾光vip" 
+        },
+        { 
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/api.json", 
+            "name": "青龙" 
+        },
+     { 
+         "url": "https://gitlab.com/jeossi/t/-/raw/main/01.bmp?ref_type=heads&inline=false", 
+            "name": "jeossi" 
+        },
+     { 
+         "url": "https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/refs/heads/master/影视.json", 
+            "name": "琉芸" 
+        },
+
+                  { 
+            "url": "https://gitee.com/wzbdyr/wzxxcz20251130/raw/maing/xczwzx.json", 
+            "name": "小橙子🍊" 
+        },
+          
+                     { 
+            "url": "https://gitee.com/wzbdyr/wzxxcz20251130/raw/maing/wzxxcz.json", 
+            "name": "大橙子🍊" 
+        }
+    ]
+}
