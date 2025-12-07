@@ -27,6 +27,14 @@
             "url": "https://gitlab.com/jeossi/t/-/raw/main/01.bmp?ref_type=heads&inline=false", 
             "name": "jeossi" 
         },
+{ 
+            "url": "https://gitee.com/bin1site/tv/raw/master/OS.json", 
+            "name": "OS" 
+        },
+{ 
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/okyan007/tvbox/refs/heads/main/jjzx.json", 
+            "name": "✨liuwei" 
+        },
         {
        "url": "https://ghfast.top/https://raw.githubusercontent.com/zheng197600/tvbox/refs/heads/main/0821.json", 
             "name": "✨0821" 
