@@ -8,6 +8,15 @@
             "name": "杨少侠" 
         },
 { 
+            "url": "https://gb.hfr1107.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/4K/4K.json", 
+            "name": "4k" 
+        },
+{ 
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/api.json", 
+            "name": "api" 
+        },
+
+{ 
             "url": "https://ghfast.top/https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/apig.json", 
             "name": "hero" 
         },
