@@ -27,13 +27,10 @@
         },
 
 { 
-            "url": "https://gitee.com/comxxo/tv/raw/box/666.json", 
-            "name": "666" 
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json", 
+            "name": "宝盒vip" 
         },
-        { 
-            "url": "https://gitee.com/baohe2025/bh/raw/master/宝盒视界", 
-            "name": "宝盒" 
-        },
+        
 
 { 
          "url": "https://gitee.com/lsc800416/tvbox/raw/master/%E9%A1%BA.json", 
