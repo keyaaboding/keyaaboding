@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://d.kstore.dev/download/2938/json/ziyong.json", "name": "自用" },
+{ "urls": [{ "url": "https://13035.kstore.space/TVBos/001.json", "name": "小火🔥" },
        { 
          "url": "https://gitee.com/t-v/tt/raw/t/t/ys.png", 
             "name": " T先生" 
@@ -20,14 +20,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/apig.json", 
             "name": "hero" 
         },
-{ 
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/ahuiabc2003/hui/refs/heads/main/hh.json", 
-            "name": "阿辉" 
-        },
-{ 
-            "url": "https://13035.kstore.space/TVBos/001.json", 
-            "name": "小火🔥" 
-        },
+
 { 
             "url": "https://jiekou.netlify.app/svip.json", 
             "name": "拾光vip" 
@@ -50,10 +43,7 @@
             "url": "https://ghfast.top/https://raw.githubusercontent.com/leexuben/TVBOX-merge/refs/heads/main/api.json", 
             "name": "青龙" 
         },
-     { 
-         "url": "https://gitlab.com/jeossi/t/-/raw/main/01.bmp?ref_type=heads&inline=false", 
-            "name": "jeossi" 
-        },
+
      { 
          "url": "https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/refs/heads/master/影视.json", 
             "name": "琉芸" 
@@ -65,8 +55,8 @@
         },
           
                      { 
-            "url": "https://wget.la/https://raw.githubusercontent.com/wzxxcz/wzxxcz/refs/heads/maing/wzxxcz.json", 
-            "name": "小橙子🍊" 
+            "url": "https://codeberg.org/ys7048560/gangge560/raw/branch/main/ys.json", 
+            "name": "影视备用" 
         }
     ]
 }
