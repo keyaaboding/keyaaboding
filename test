@@ -49,7 +49,7 @@ Y29uc3Qgc2FtZU9wdGlvbj1bCgl7CgkgICAgImtleSI6ICJvcmRlciIsCgkgICAgIm5hbWUiOiAi5o6S
 "filters":{
 "推荐": [
 {"key": "tid","name": "分类","value": [
-{"n": "AI软件推荐","v": "AI软件推荐"},
+{"n": "软件推荐","v": "软件推荐"},
 {"n": "白噪音","v": "白噪音"},
 {"n": "模特","v": "模特"},
 {"n": "男人穿搭推荐","v": "男人穿搭推荐"},
