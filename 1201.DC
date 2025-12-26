@@ -25,12 +25,10 @@
             "url": "https://jiekou.netlify.app/svip.json", 
             "name": "拾光vip" 
         },
-
 { 
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json", 
             "name": "宝盒vip" 
-        },
-        
+        },        
 
 { 
          "url": "https://gitee.com/lsc800416/tvbox/raw/master/%E9%A1%BA.json", 
@@ -45,6 +43,7 @@
             "url": "https://gitee.com/yantouer/box/raw/master/bxs/bxs.json", 
             "name": "百晓生" 
         },
+
 { 
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/okyan007/tvbox/refs/heads/main/jjzx.json", 
             "name": "✨liuwei" 
