@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://13035.kstore.space/TVBos/001.json"， "name": "四时佳兴✨小火线🔥" },
+{ "urls": [{ "url": "https://13035.kstore.space/TVBos/001.json"， "name": "四时佳兴✨小火线" },
        { 
          "url": "https://gitee.com/t-v/tt/raw/t/t/ys.png"， 
             "name": "四时佳兴✨ 恒轩线" 
@@ -9,7 +9,7 @@
         },
 { 
             "url": "https://gitee.com/yanglong1251/tv-box/raw/master/url/getVip1Line.png"， 
-            "name": "四时佳兴✨大火线🔥" 
+            "name": "四时佳兴✨大火线" 
         },
 { 
             "url": "https://github.catvod.com/https://raw.githubusercontent.com/AIsenfu/tvbox-/refs/heads/main/index.html"， 
@@ -42,7 +42,7 @@
           
                      { 
             "url": "https://codeberg.org/ys7048560/gangge560/raw/branch/main/ys.json"， 
-            "name": "四时佳兴✨影视备用线" 
+            "name": "四时佳兴✨备用线" 
         }
     ]
 }
